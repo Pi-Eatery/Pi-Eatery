@@ -1,49 +1,57 @@
-# Hi I'm Kenric 👋
+# Hello, I'm Kenric
+<a href="https://linkedin.com/in/kenric-mott/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I'm a network administrator passionate about building, configuring, and securing networks from the ground up. I believe in the power of hands-on experience, which is why I've built a comprehensive homelab to experiment with enterprise-grade hardware and solve real-world networking challenges. My goal is to leverage my skills in routing, switching, and cybersecurity to build efficient and secure networks.
+I am a Cybersecurity student eager to learn and apply what I already know to better my standing as a Network Admin.
 
-I am currently seeking new opportunities and would love to connect with fellow tech enthusiasts and potential employers.
+## Objective
 
----
+My journey in information security has led me to a passion for configuring and maintaining computer networks. I want to make this passion my career before I finish with school..
 
-### 🔧 Core Competencies
+## Skills
+[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
-*   **Layer 2 Switching:** VLANs, 802.1Q Trunking, Spanning Tree Protocol
-*   **Network Protocols:** TCP/IP, DNS, DHCP, Static Routing
-*   **Vendor Experience:** Cisco IOS, Dell Hardware
-*   **Virtualization:** Proxmox VE (VMs and LXC Containers)
-*   **Currently Learning:** Dynamic Routing Protocols (OSPF, BGP, EIGRP, ...) and Advanced cybersecurity practices
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Incident Response Planning and Execution      | SOC Automation Lab|
+| Case Management with TheHive                  | SOC Automation Lab|
+| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
-### 🎓 Certifications
+## Tools
+[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
-*   **CompTIA Network+** (Acquired: June 2025)
-*   **Next Goal:** Cisco Certified Network Associate (CCNA)
+### Network
+<div>
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+</div>
 
----
+### Endpoint
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+</div>
 
-### 🔬 My Homelab & Projects
+### SIEM
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+</div>
 
-My thought process is that if technology is constantly advancing, learning as it grows is the best way to keep current with the general going-ons in the information technology world. My homelab is at the heart of that learning with the growth since to implement something securely, one needs to understand its inner and outer workings. I can constantly test new configurations, technologies, and interactions to grow my own knowledge base.
+## Certifications
+[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+<div>
+<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+</div>
 
-#### The Hardware
-*   **Primary Server:** Dell PewerEdge R930 running **Proxmox VE**
-*   **Network:** A mix of managed and unmanaged switches (Undergoing overhaul currently)
-*   **Clients and Devices:** A diverse collection of Raspberry Pis, laptops, PCs, game consoles, and other IoT devices gathered  to create a realistic environment to test segmantation and security.
-
-#### Featured Project: Full Network Overhaul
-This project showcases my ability to design, implement, and maintain a structured network from a basic ISP setup.
-
-*   **The Goal:** To transition from a bare and flat network to a segmented, semi-professional environment. This will cause performance and security to improve by segmenting servers, IoT, and general use clients in isolated networks, away from each other.
-*   **The Plan:**
-    1.  Replace the current unmanaged switch with the equivalent managed version.
-    2.  Implement a VLAN-based logical topology to seperate traffic.
-    3.  Configure 802.1Q trunks to carry VLAN traffic between network devices.
-    4.  Document every step of the process to create a repeatable and maintainable network design.
-
----
-
-### 📫 Get In Touch
-
-I'm always open to connecting and discussing technology. Feel free to reach out!
-
-*   **Email:** `kam3014@proton.me`
+## Projects
+- Detection Lab
+- SOC Automation Project
